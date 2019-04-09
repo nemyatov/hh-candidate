@@ -1,0 +1,23 @@
+{
+    "candidateApp": {
+        "candidate": {
+            "home": {
+                "title": "Candidates",
+                "createLabel": "Создать новый Candidate",
+                "createOrEditLabel": "Создать или отредактировать Candidate"
+            },
+            "created": "Новый Candidate создан с идентификатором {{ param }}",
+            "updated": "Candidate обновлен с идентификатором {{ param }}",
+            "deleted": "Candidate удален с идентификатором {{ param }}",
+            "delete": {
+                "question": "Вы уверены что хотите удалить Candidate {{ id }}?"
+            },
+            "detail": {
+                "title": "Candidate"
+            },
+            "url": "Url",
+            "email": "Email",
+            "name": "Name"
+        }
+    }
+}
